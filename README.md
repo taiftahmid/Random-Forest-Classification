@@ -28,6 +28,8 @@ The following figure shows the predictions made by the model from new users. (Te
 
 ![alt text](https://github.com/taiftahmid/Random-Forest-Classification/blob/master/random_forest_test.png)
 
+For this dataset, increasing the number of estimators to even to 100 did not improve the accuracy of the dataset and as a result, the n_estimators was kept to 10. 
+
 The Random Forest Classification model works by making splits in the dataset and brings out new information. But unfortunately the splits also made the visualisation of the 
 results a little unreadable as well. Will work on making a better visual plot in the future 
 
